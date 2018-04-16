@@ -1,0 +1,7 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "atom-base-64:toggle",
+    "ctrl-alt-e": "atom-base-64:encode",
+    "ctrl-alt-d": "atom-base-64:decode"
+  }
+}

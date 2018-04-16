@@ -1,0 +1,17 @@
+{
+  "name": "atom-base-64",
+  "main": "./lib/atom-base-64",
+  "version": "0.1.0",
+  "description": "Text Base64 Encoder/Decoder",
+  "keywords": ["base64","base 64", "b64", "encoder", "decoder"],
+  "activationCommands": {
+    "atom-workspace": ["atom-base-64:toggle","atom-base-64:encode","atom-base-64:decode"]
+  },
+  "repository": "https://github.com/atom/atom-base-64",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

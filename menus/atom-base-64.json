@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Base64 encode",
+        "command": "atom-base-64:encode"
+      },
+      {
+        "label": "Base64 decode",
+        "command": "atom-base-64:decode"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Base64",
+          "submenu": [
+            {
+              "label": "Encode",
+              "command": "atom-base-64:encode"
+            },
+            {
+              "label": "Decode",
+              "command": "atom-base-64:decode"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
