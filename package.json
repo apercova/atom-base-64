@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": ["atom-base-64:toggle","atom-base-64:encode","atom-base-64:decode"]
   },
-  "repository": "https://github.com/atom/atom-base-64",
+  "repository": "https://github.com/apercova/atom-base-64",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
