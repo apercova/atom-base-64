@@ -7,7 +7,7 @@ Base64 encoder/decoder for Atom
 - alt + ctrl + o : Toggle Base64 Encoding/Decoding
 
 ### Exports Packages's Base64 sub menus and Base64 encode/decode context menus  
-![Image of Yaktocat](https://github.com/apercova/atom-base-64/blob/master/img/toolbar-menu.png)  
+![](https://github.com/apercova/atom-base-64/blob/master/img/toolbar-menu.png)  
 
-![Image of Yaktocat](https://github.com/apercova/atom-base-64/blob/master/img/ctx-menu.png)  
+![](https://github.com/apercova/atom-base-64/blob/master/img/ctx-menu.png)  
 
