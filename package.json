@@ -1,7 +1,7 @@
 {
   "name": "atom-base-64",
   "main": "./lib/atom-base-64",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Text Base64 Encoder/Decoder",
   "keywords": [
     "base64",
