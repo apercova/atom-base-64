@@ -6,7 +6,7 @@ Base64 encoder/decoder for Atom
 - alt + ctrl + d : Decode from Base64
 - alt + ctrl + o : Toggle Base64 Encoding/Decoding
  
-![](https://github.com/apercova/atom-base-64/blob/master/img/toolbar-menu.png)  
+![](https://github.com/apercova/atom-base-64/blob/master/img/toolbar-menu.png?raw=true)  
 
-![](https://github.com/apercova/atom-base-64/blob/master/img/ctx-menu.png)  
+![](https://github.com/apercova/atom-base-64/blob/master/img/ctx-menu.png?raw=true)  
 
